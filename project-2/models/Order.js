@@ -60,7 +60,7 @@ const orderSchema = new mongoose.Schema({
   },
   couponCode: {
     type: String,
-    enum: ['SAVE10', 'FREESHIP', 'WINTER15'],
+    enum: ['SAVE10', 'FREESHIP', 'WINTER15', null],
     default: null
   },
   referralSource: {
