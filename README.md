@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 DecodeLabs Backend Internship Portfolio</h1>
+  <h1><img src="https://icongr.am/feather/code.svg?size=36&color=1e90ff" width="36" align="top"> DecodeLabs Backend Internship Portfolio</h1>
   <p><strong>A comprehensive collection of backend projects demonstrating scalable API design, database management, and secure authentication.</strong></p>
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -10,13 +10,13 @@
 
 <br />
 
-## 📖 Overview
+## <img src="https://icongr.am/feather/info.svg?size=24&color=1e90ff" width="24" align="top"> Overview
 
 This repository serves as a showcase of my backend development journey during the **DecodeLabs Internship**. The repository is systematically structured into multiple iterative projects, evolving from foundational data management to a full-fledged secure authentication system.
 
 ---
 
-## 🏗️ Repository Architecture
+## <img src="https://icongr.am/feather/layers.svg?size=24&color=1e90ff" width="24" align="top"> Repository Architecture
 
 ```text
 DecodeLabs-Internship/
@@ -27,14 +27,14 @@ DecodeLabs-Internship/
 
 ---
 
-## 🛠️ Projects Breakdown
+## <img src="https://icongr.am/feather/grid.svg?size=24&color=1e90ff" width="24" align="top"> Projects Breakdown
 
-### 📦 [Project 1: Data Organization](./project-1)
+### <img src="https://icongr.am/feather/database.svg?size=20&color=1e90ff" width="20" align="top"> [Project 1: Data Organization](./project-1)
 Focused on foundational data processing, this project curates and structures raw e-commerce data.
 - **Dataset**: Manages a massive JSON dataset (`Online-Store-Orders.json`) containing over 1,200 real-world e-commerce orders.
 - **Data Points**: Structurally defines data models including `OrderID`, `Product`, `Quantity`, `UnitPrice`, `ShippingAddress`, and `PaymentMethod`.
 
-### 🔗 [Project 2: Database-Integrated REST API](./project-2)
+### <img src="https://icongr.am/feather/link.svg?size=20&color=1e90ff" width="20" align="top"> [Project 2: Database-Integrated REST API](./project-2)
 A fully functional REST API engineered on top of the dataset curated in Project 1.
 - **Tech Stack**: Node.js, Express.js, MongoDB (Atlas), Mongoose
 - **Core Features**:
@@ -43,7 +43,7 @@ A fully functional REST API engineered on top of the dataset curated in Project 
   - **CRUD Operations**: Comprehensive endpoints (`GET`, `POST`, `PUT`, `DELETE`) with support for dynamic filtering.
   - **Error Handling**: Standardized, production-grade API responses.
 
-### 🔐 [Project 3: Secure Authentication System](./project3)
+### <img src="https://icongr.am/feather/lock.svg?size=20&color=1e90ff" width="20" align="top"> [Project 3: Secure Authentication System](./project3)
 An enterprise-grade authentication backend utilizing modern security best practices. It includes all core features and several advanced bonus implementations.
 - **Tech Stack**: Node.js, Express.js, MongoDB, JWT (JSON Web Tokens), bcrypt
 - **Core Features**:
@@ -60,7 +60,7 @@ An enterprise-grade authentication backend utilizing modern security best practi
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## <img src="https://icongr.am/feather/terminal.svg?size=24&color=1e90ff" width="24" align="top"> Getting Started (Local Setup)
 
 To run any of the projects locally, follow these general steps:
 
@@ -97,7 +97,7 @@ To run any of the projects locally, follow these general steps:
 
 ---
 
-## 📬 API Testing Instructions
+## <img src="https://icongr.am/feather/check-circle.svg?size=24&color=1e90ff" width="24" align="top"> API Testing Instructions
 
 ### Project 2
 - Run the server locally and use the `/api/orders` endpoints.
@@ -119,5 +119,5 @@ A Postman collection (`Auth-API-Collection.json`) is included in the `project3` 
 
 ---
 <div align="center">
-  <i>Developed with ❤️ during the DecodeLabs Internship</i>
+  <i>Developed with <img src="https://icongr.am/feather/heart.svg?size=16&color=ff4081" width="16" align="center"> during the DecodeLabs Internship</i>
 </div>
